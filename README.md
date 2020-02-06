@@ -16,5 +16,5 @@
 
 | 题目 | 动画图解 | 牛客网链接 |
 |---|---|---|
-| 二维数组中的查找 | [动画图解传送门](https://github.com/de2008de/CodingInterviewsAnimations/blob/master/01.%20%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.md) | [牛客网线上编程](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |
+| 二维数组中的查找 | [动画图解传送门](01.二维数组中的查找/二维数组中的查找.md) | [牛客网线上编程](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) |
 | 持续更新中 | |
