@@ -20,4 +20,5 @@
 | 翻转单词顺序列 | [动画图解传送门](02.翻转单词顺序列/翻转单词顺序列.md) | [牛客网在线编程](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tqId=11197&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 | 用两个栈实现队列 | [动画图解传送门](03.用两个栈实现队列/用两个栈实现队列.md) | [牛客网在线编程](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 | 斐波那契数列 | [动画图解传送门](04.斐波那契数列/斐波那契数列.md) | [牛客网在线编程](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tqId=11160&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
+| 跳台阶 | [动画图解传送门](05.跳台阶/跳台阶.md) | [牛客网在线编程](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&tqId=11161&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 | 持续更新中 | |
