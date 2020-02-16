@@ -22,4 +22,5 @@
 | 斐波那契数列 | [动画图解传送门](04.斐波那契数列/斐波那契数列.md) | [牛客网在线编程](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tqId=11160&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 | 跳台阶 | [动画图解传送门](05.跳台阶/跳台阶.md) | [牛客网在线编程](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&tqId=11161&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 | 变态跳台阶 | [动画图解传送门](06.变态跳台阶/变态跳台阶.md) | [牛客网在线编程](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tqId=11162&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
+| 从尾到头打印链表 | [动画图解传送门](07.从尾到头打印链表/从尾到头打印链表.md) | [牛客网在线编程](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)
 | 持续更新中 | |
