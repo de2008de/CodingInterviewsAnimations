@@ -1,14 +1,10 @@
 ![Language](https://img.shields.io/badge/language-Java-brightgreen.svg) ![Author](https://img.shields.io/badge/author-David%20Chou-blue)
-![Time](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0-green)
-
 
 ![Logo](logo.png)
 
 我希望将我的学习成果以一种简洁易懂的方式呈现给大家，与大家一起共同进步！
 
 经过一番思考，我觉得以动画的形式展现出来最适合进行知识的传播。
-
-目前内容先以中文版为主，后期会添加英文版。预计用一年时间完成60道题图解。
 
 欢迎大家一起交流！
 
